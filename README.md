@@ -40,7 +40,7 @@ the bot has the following commands
 
 
 This bot uses Node.js
-discord.js (allows for making bots on discord much easier 
+discord.js (allows for making bots on discord much easier thanks to the devlopers over at discord)
 
 
 
