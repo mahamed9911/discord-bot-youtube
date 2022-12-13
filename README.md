@@ -1,4 +1,4 @@
-# discord-yotube-bot
+# discord-bot-youtube
 This bot uses Node.js
 discord.js (allows for making bots on discord much easier thanks to the devlopers over at discord)
 
